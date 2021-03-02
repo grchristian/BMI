@@ -1,5 +1,27 @@
 body {
-    background-color: rgba(88, 241, 228, 0.342);
     text-align: center;
+
+    background-image: url("bg.jpg");
+    background-color: #ffffff;
+    background-position: center;
+    background-size: cover;
+   }
+
+h1 {
+    font-size:190px;
+    margin: 0;
+    line-height: 80%;
 }
-  
+h2 {
+    font-size:50px;
+    margin: 0;
+    line-height: 80%;
+}
+
+#cuadro {
+    align-items: center;
+
+    background-color: antiquewhite;
+    opacity: 0.8;
+    padding: 2% 0%;
+}
