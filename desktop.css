@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-image: url("bg.png");
+    background-color: #ffffff;
+   }
+
+h1 {
+    font-size:190px;
+    margin: 0;
+    line-height: 80%;
+}
+h2 {
+    font-size:50px;
+    margin: 0;
+    line-height: 80%;
+}
+p {
+    margin: 1;
+    line-height: 80%;
+}
+
+.cuadrado {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -20%);
+}
